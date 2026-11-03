@@ -208,4 +208,4 @@ NeonDS is the complete free version, providing all features and updates without 
 Don't miss out on the opportunity to relive your childhood classics! Download NeonDS today and immerse yourself in the world of Nintendo DS gaming on your Windows PC!
 
 ---
-**Last updated:** 2026-11-02 21:11:29 UTC
+**Last updated:** 2026-11-03 03:14:01 UTC
